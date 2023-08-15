@@ -1,26 +1,12 @@
 # Presentación
+## Estudiante: Luis Javier Mazo Gomez
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Suban una foto.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
-
-
-## Estudiante: Nombre estudiante
-
-Descripción
+Descripción: 
+Soy Luis. Soy estuandiante de TPI. Estoy entusiamado por aprender bien las bases y fundamentos de la programación orientada a objetos para poder adentrarme en algun lenguaje de programación como Java y C# y asi poder trabajar en una empresa o consultora IT. Además de la programación me encanta el cine, el deporte y el anime.  
 
 Foto de mi persona:
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
+![d](https://imgur.com/ThKKxg1)
 
-Diente de Leon
 
-------
-
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
